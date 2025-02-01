@@ -11,6 +11,7 @@ body {
 .main-container {
   max-width: 500px;
   height: 100vh;
+  margin: 0 auto;
   background-repeat: no-repeat;
   background-size: contain;
   background-image: url('../assets/images/valentine-s-day-digital-art-with-romantic-couple_23-2151164297.avif');
