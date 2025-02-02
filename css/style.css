@@ -308,11 +308,12 @@ footer img {
 }
 
 .video-4 {
-  width: 500px;
-  height: 500px;
+  width: 480px;
+  height: 480px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   align-items: center;
+  overflow: hidden;
   background-image: url('../assets/images/valentine-s-day-digital-art-with-romantic-couple_23-2151164297.avif');
 }
